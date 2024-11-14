@@ -35,6 +35,4 @@ Este é um projeto em React chamado "Clima Hoje", que exibe dados fictícios sob
 
 Sinta-se à vontade para abrir um pull request ou reportar problemas.
 
-## Licença
 
-Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
