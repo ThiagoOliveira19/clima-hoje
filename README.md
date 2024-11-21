@@ -6,7 +6,7 @@ Este é um projeto em React chamado "Clima Hoje", que exibe dados fictícios sob
 
 - Exibe dados simulados sobre o clima.
 - Utiliza uma imagem de fundo para dar uma sensação de clima real.
-- Cabeçalho com nome do projeto e rodapé com créditos para Thiago.
+- Cabeçalho com nome do projeto e rodapé com créditos.
 
 ## Como Rodar o Projeto
 
